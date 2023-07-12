@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MASTERMIND/1.0.0": {
+        "runtime": {
+          "MASTERMIND.dll": {}
+        },
+        "resources": {
+          "zu-ZA/MASTERMIND.resources.dll": {
+            "locale": "zu-ZA"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MASTERMIND/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
